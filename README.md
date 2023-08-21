@@ -1,4 +1,4 @@
-# OpenAI.Clustering with .NET
+# OpenAI: Clustering with .NET
 
 ## Intro
 
@@ -6,7 +6,7 @@ OpenAI embeddings are a way of transforming text into numerical vectors that can
 
 ![Embedding Overview](./media/img/EmbeddingOverview.png)
 
-THis vector can then be used to cluster the text with other tests that have similar vectors, based on some distance metric.
+This vector can then be used to cluster the text with other tests that have similar vectors, based on some distance metric.
 
 ## Dimensional reduction
 
